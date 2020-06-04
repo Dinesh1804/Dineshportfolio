@@ -848,6 +848,10 @@ li .linkd{
         width:350px;
         height:900px;
     }
+  .photo1 img{
+        padding-left:30px;
+        width:320px;
+    }
     .abt{
         font-size:20px;
         text-align:justify;
